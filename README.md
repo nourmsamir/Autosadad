@@ -13,9 +13,9 @@ Teaching Assistants: Mr. Nour Gaser, Mr. Omar Alaa
 | Name | Student ID | Tutorial Group | GitHub Username |
 |------|------------|----------------|-----------------|
 | [Nour Samir] | [13006170] | [T4] | [@nourmsamir] |
-| [Malak El Koumy] | [13007408] | [T4] | [@username] |
+| [Malak El Koumy] | [13007408] | [T4] | [@malakelkoumy-15] |
 | [Ganna Hamza] | [13003623] | [T4] | [@Ganna-Hamza006] |
-| [Sama Samer] | [13007478] | [T7] | [@username] |
+| [Sama Samer] | [13007478] | [T7] | [@samasamerbandy] |
 | [Omar Khaled] | [13002892] | [T7] | [@OmarKhaled06] |
 
 ---
