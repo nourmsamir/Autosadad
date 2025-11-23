@@ -16,7 +16,7 @@ Teaching Assistants: Mr. Nour Gaser, Mr. Omar Alaa
 | [Malak El Koumy] | [13007408] | [T4] | [@username] |
 | [Ganna Hamza] | [13003623] | [T4] | [@Ganna-Hamza006] |
 | [Sama Samer] | [13007478] | [T7] | [@username] |
-| [Omar Khaled] | [13002892] | [T7] | [@username] |
+| [Omar Khaled] | [13002892] | [T7] | [@OmarKhaled06] |
 
 ---
 
