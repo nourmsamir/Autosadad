@@ -14,7 +14,7 @@ Teaching Assistants: Mr. Nour Gaser, Mr. Omar Alaa
 |------|------------|----------------|-----------------|
 | [Nour Samir] | [13006170] | [T4] | [@nourmsamir] |
 | [Malak El Koumy] | [13007408] | [T4] | [@username] |
-| [Ganna Hamza] | [13003623] | [T4] | [@username] |
+| [Ganna Hamza] | [13003623] | [T4] | [@Ganna-Hamza006] |
 | [Sama Samer] | [13007478] | [T7] | [@username] |
 | [Omar Khaled] | [13002892] | [T7] | [@username] |
 
@@ -61,10 +61,10 @@ https://www.canva.com/design/DAG1aJenNZQ/0nDk3-8uV6sN2XQM-OIX1A/view?utm_content
 | Team Member | Assigned Use Case | Description |
 |------------|-------------------|-------------|
 | Malak El Koumy | User Authentication | Register, login, JWT, password hashing |
-| [Name] | Bill Aggregator & Management | CRUD for bills |
+| Omar Khaled | Bill Aggregator & Management | CRUD for bills |
 | Nour Samir | Payment Reminders | Create, edit, view, delete reminders with due date & frequency |
-| [Name] | Automated Payments | Create auto-pay rules |
-| [Name] | Payment Integration | Simulate connection to providers |
+| Ganna Hamza | Automated Payments | Create auto-pay rules |
+| Sama Samer | Payment Integration | Simulate connection to providers |
 
 ---
 
