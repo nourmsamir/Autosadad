@@ -64,7 +64,7 @@ https://www.canva.com/design/DAG1aJenNZQ/0nDk3-8uV6sN2XQM-OIX1A/view?utm_content
 | Omar Khaled | Bill Aggregator & Management | CRUD for bills |
 | Nour Samir | Payment Reminders | Create, edit, view, delete reminders with due date & frequency |
 | Ganna Hamza | Automated Payments | Create auto-pay rules |
-| Sama Samer | Payment Integration | Simulate FAKE transaction and connection to providers |
+| Sama Samer | Payment Integration | Simulate transactions without actual integration |
 
 ---
 
