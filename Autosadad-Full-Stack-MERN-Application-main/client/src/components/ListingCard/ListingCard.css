@@ -1,0 +1,71 @@
+.listing-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  width: 250px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.listing-card:hover {
+  transform: scale(1.03);
+}
+
+.listing-logo {
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.listing-info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.listing-name {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.listing-amount,
+.listing-date {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0;
+}
+
+.badge {
+  padding: 3px 7px;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  width: fit-content;
+}
+
+.badge.paid { background-color: #d4edda; color: #155724; }
+.badge.pending { background-color: #fff3cd; color: #856404; }
+.badge.overdue { background-color: #f8d7da; color: #721c24; }
+.badge.active { background-color: #d1ecf1; color: #0c5460; }
+.badge.paused { background-color: #e2e3e5; color: #6c757d; }
+
+button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

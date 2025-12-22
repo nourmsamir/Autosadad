@@ -1,0 +1,35 @@
+.payments-container {
+  padding: 24px;
+}
+
+.payment-card {
+  background-color: #333333;
+  padding: 24px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  color: #FFD700;
+  max-width: 400px;
+}
+
+.payment-card input {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #555555;
+  background-color: #2C2C2C;
+  color: #FFD700;
+}
+
+.payment-card button {
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #FFD700;
+  color: #1E1E1E;
+  cursor: pointer;
+}
+
+.payment-card button:hover {
+  background-color: #e6c200;
+}

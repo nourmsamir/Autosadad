@@ -1,0 +1,27 @@
+.reminders-container {
+  padding: 24px;
+}
+
+.reminder-card {
+  background-color: #333333;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  color: #FFD700;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reminder-card button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #FFD700;
+  color: #1E1E1E;
+  cursor: pointer;
+}
+
+.reminder-card button:hover {
+  background-color: #e6c200;
+}

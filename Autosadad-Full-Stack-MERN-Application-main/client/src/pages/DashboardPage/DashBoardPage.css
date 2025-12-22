@@ -1,0 +1,39 @@
+.dashboard-container {
+  padding: 24px;
+}
+
+.stats-cards {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 1 30%;
+  background-color: #333333;
+  border-radius: 12px;
+  padding: 16px;
+  color: #FFD700;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+
+.transactions-table table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #FFD700;
+}
+
+.transactions-table th,
+.transactions-table td {
+  padding: 12px;
+  border: 1px solid #555555;
+}
+
+.transactions-table th {
+  background-color: #444444;
+}
+
+.transactions-table td {
+  background-color: #2C2C2C;
+}
